@@ -1,0 +1,75 @@
+{
+  "device": "cuda",
+  "seed": 20260817,
+  "n_neurons": 256,
+  "batch_size": 2048,
+  "dt_ms": 0.05,
+  "duration_ms": 2500.0,
+  "warmup_ms": 500.0,
+  "record_bin_ms": 1.0,
+  "noise_chunk_steps": 256,
+  "realizations_per_condition": 12,
+  "lif": {
+    "v_rest": -65.0,
+    "v_reset": -65.0,
+    "v_th": -50.0,
+    "tau_m_ms": 20.0,
+    "refractory_ms": 2.0,
+    "bias": 0.75
+  },
+  "hh": {
+    "bias_uA_cm2": 9.5
+  },
+  "synapse": {
+    "tau_ms": 5.0,
+    "e_rev_mv": 0.0
+  },
+  "topologies": [
+    "er",
+    "small_world",
+    "scale_free",
+    "modular"
+  ],
+  "placements": [
+    "random",
+    "high_degree",
+    "feedback_hub",
+    "module_bridge",
+    "cycle_proxy",
+    "spectral",
+    "gpu_surrogate"
+  ],
+  "n_hh_values": [
+    0,
+    1,
+    2,
+    4,
+    8,
+    16,
+    24,
+    32,
+    40,
+    48,
+    64,
+    96,
+    128,
+    192,
+    256
+  ],
+  "couplings": [
+    0.02,
+    0.035,
+    0.05,
+    0.075
+  ],
+  "connection_probs": [
+    0.02,
+    0.05,
+    0.1
+  ],
+  "noise_sigmas": [
+    0.5,
+    1.0
+  ],
+  "output_dir": "results_stage3"
+}

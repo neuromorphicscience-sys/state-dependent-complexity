@@ -1,0 +1,6 @@
+family,target_axis_width_mm,target_axis_height_mm,role
+standard,58,42,Default line/scatter/bar/paired quantitative panel
+wide,70,42,Wide budget curves/trajectories/profiles
+heatmap,46,46,Heatmap or matrix body; colorbar excluded
+forest,60,38,Forest/coefficient/interval summary
+histogram,58,40,Histogram/null/permutation distribution

@@ -1,0 +1,20 @@
+# CPU-only environment used for syntax/import tests and non-GPU unit tests.
+numpy>=1.26,<3
+pandas>=2.0,<4
+scipy>=1.11,<2
+scikit-learn>=1.4,<2
+statsmodels>=0.14,<1
+h5py>=3.10,<4
+pynwb>=2.8,<4
+hdmf>=3.14,<5
+pyarrow>=15,<30
+PyYAML>=6,<7
+tqdm>=4.66,<5
+networkx>=3.2,<4
+matplotlib>=3.8,<4
+Pillow>=10,<13
+openpyxl>=3.1,<4
+python-docx>=1.1,<2
+PyMuPDF>=1.24,<2
+reportlab>=4,<5
+

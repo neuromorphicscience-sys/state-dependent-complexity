@@ -1,0 +1,56 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local scientific inputs and generated results
+data/
+raw_data/
+bio data/
+results/
+results_*/
+**/checkpoints/
+**/run_logs/
+**/style_backup/
+**/output/
+**/output_*/
+
+# Large binary scientific artifacts
+*.nwb
+*.h5
+*.hdf5
+*.sqlite
+*.db
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.parquet
+*.pkl
+*.pickle
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Generated manuscript and figure binaries
+*.docx
+*.xlsx
+*.pdf
+*.png
+*.tif
+*.tiff
+*.eps
+

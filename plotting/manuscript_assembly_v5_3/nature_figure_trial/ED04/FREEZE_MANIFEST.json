@@ -1,0 +1,16 @@
+{
+  "figure": "ED04",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_full_v2",
+  "note": "User-approved Fig04 degeneracy support figure. The final layout places panel b closer to c while retaining panel c and its colorbar alignment with panel g. Do not modify without explicitly unfreezing ED04.",
+  "sha256": {
+    "output_full_v2/ED04_full_nature_trial_v2.pdf": "d29c3078e6201ce53f81336c3799c36fe443033d91628e8d22cbd3d90865446f",
+    "output_full_v2/ED04_full_nature_trial_v2.svg": "60598bbd748671eb44ac04d3fba76c5a79c20f39504f4ef457cdd8e1f08d3cb2",
+    "output_full_v2/ED04_full_nature_trial_v2.png": "f126c4ec7a48ab2aa311f3f2db481da7f5d2d1086a887aec2fb818f272edea1a",
+    "output_full_v2/ED04_full_nature_trial_v2.tiff": "97dcbfdf47f15882db47ce03c649af70511e091031babe5c10eb60e2cbc29837",
+    "output_full_v2/source_data_manifest.json": "f5121aaa0f498103bb165facafc4fcc0df26d888bc300c3ddf011133389213c0",
+    "build_ed04_full_v2.py": "1205d5889ff05c33239c69fceb3cdf92ca8c2ba9a937b6d073e2f0206c842496",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

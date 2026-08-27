@@ -1,0 +1,18 @@
+{
+  "figure": "Fig02",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_full_v1",
+  "note": "User-approved final Fig02 with the native vector controlled resource-allocation schematic installed in panel a; invalid None conditions remain excluded and quantitative geometry is unchanged.",
+  "sha256": {
+    "output_full_v1/Fig02_full_nature_trial.pdf": "a57e35c42c1cd412461ca105d3960b5e14112ff4f7181a3fc202f222be17e188",
+    "output_full_v1/Fig02_full_nature_trial.svg": "42617241bd1f6bee01963fc03b613b1999a677ef8b86c2aab351059e2e972b94",
+    "output_full_v1/Fig02_full_nature_trial.png": "16ab39d5f76e0920adefee88808ed53d4ebf1a2010d2e6831a24dbfbf9365881",
+    "output_full_v1/Fig02_full_nature_trial.tiff": "a09d18bf062fb7507ce11e1c85fba0de8950041ef165b4d156139693d49b2a36",
+    "output_full_v1/source_data_manifest.json": "e40407a99719db747e83a237bb127c9741bf2ca8ab7c2ccd99bc45350b8bb31d",
+    "build_fig02_full_trial.py": "275e4c6f096d2646fe64b6c8daeb166da10ba61644f040d8d52589a23ff03c36",
+    "figure_contract.md": "44b434d8f08e94d86e60582692d764e6acedfa2328f015abf2cf6888400050a7",
+    "QA_REPORT.md": "6c57829ebfe39070e63b0041350efbefb9693eacd48b2ec4ca5c0fd61ef31eca",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

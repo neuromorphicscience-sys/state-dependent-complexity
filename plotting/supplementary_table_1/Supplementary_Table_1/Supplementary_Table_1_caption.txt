@@ -1,0 +1,7 @@
+Supplementary Table 1. Quality-control audit of structural variables in the PFC atlas cohort. For each archived field, the table reports the number of observations, number of unique values and descriptive range. Identifier and categorical-code fields are retained for provenance but are not interpreted as continuous biological quantities. Dendrite length and dendrite nodes have zero variance in the archived cohort and are therefore uninformative for variance-based analyses. No inferential statistics are presented.
+
+Notes:
+1. n is the number of archived observations; unique is the number of distinct archived values.
+2. Zero variance is defined here by unique = 1 and s.d. = 0.
+3. Numeric summaries use the archived source scale; no units or transformations were reassigned.
+4. Complete unmodified values are retained in the Raw source worksheet and the accompanying CSV.

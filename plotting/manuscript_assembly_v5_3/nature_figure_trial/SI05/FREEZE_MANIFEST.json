@@ -1,0 +1,16 @@
+{
+  "figure": "SI05",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_full_v1",
+  "note": "User-approved OpenScope cohort and analysis-validity audit. The frozen 2 x 3 grid uses mouse rank for legibility while preserving all mouse identifiers in source data.",
+  "sha256": {
+    "output_full_v1/SI05_full_nature_trial_v1.pdf": "6d62d592326225a2719288884364d8a620ba56aa0584543d8e1079474acac778",
+    "output_full_v1/SI05_full_nature_trial_v1.svg": "2158a8b33989eb32e795705733ba085a08358204e6282a18308031f34c5e7b03",
+    "output_full_v1/SI05_full_nature_trial_v1.png": "db4cc8fb3b8f2ce445650631f71a95deb5e7dc417016e761efab5dd6661e3034",
+    "output_full_v1/SI05_full_nature_trial_v1.tiff": "2d0f32d4c3bca0ddde0e2b447458de3c50bcf6501974cbe00388554a5cca370c",
+    "output_full_v1/source_data_manifest.json": "25a736f226b67c8dc1fe358e79f192a53a1909389e2cf270abb03282d0d38c8f",
+    "build_si05_full_v1.py": "e104c44e1d90f063d2f8e14870452b6c71d7140654b5f645fa2be81274b4ce90",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

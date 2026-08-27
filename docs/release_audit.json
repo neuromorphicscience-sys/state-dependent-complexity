@@ -1,0 +1,556 @@
+{
+  "status": "PASS",
+  "upload_ready": true,
+  "failures": [],
+  "warnings": [
+    "127 historical absolute-path references; use release_tools wrappers"
+  ],
+  "counts": {
+    "python_files": 161,
+    "syntax_errors": 0,
+    "cache_artifacts": 0,
+    "large_files": 0,
+    "absolute_path_references": 127,
+    "potential_secrets": 0,
+    "frozen_python_hashes_checked": 22,
+    "frozen_python_hash_mismatches": 0,
+    "package_files_checked": 75,
+    "package_file_mismatches": 0,
+    "release_checksum_files_checked": 321,
+    "release_checksum_mismatches": 0,
+    "release_checksum_malformed": 0
+  },
+  "stage4a": {
+    "formal_archive_semantic_equal": true,
+    "optimizer": {
+      "population": 4096,
+      "elite": 512,
+      "generations": 6,
+      "random_injection": 512,
+      "swap_mutations": 2
+    }
+  },
+  "metadata_missing": [],
+  "license_verified": true,
+  "environment_lock_missing": [],
+  "release_checksum_manifest": "SHA256SUMS",
+  "details": {
+    "syntax_errors": [],
+    "large_files": [],
+    "hardcoded_paths": [
+      {
+        "path": "analysis/biological_stages/openscope/final_closure/README_CN.md",
+        "line": 53
+      },
+      {
+        "path": "analysis/biological_stages/openscope/final_closure/README_CN.md",
+        "line": 57
+      },
+      {
+        "path": "analysis/biological_stages/openscope/final_closure/README_CN.md",
+        "line": 66
+      },
+      {
+        "path": "analysis/biological_stages/openscope/final_closure/README_CN.md",
+        "line": 78
+      },
+      {
+        "path": "analysis/biological_stages/openscope/final_closure/README_CN.md",
+        "line": 81
+      },
+      {
+        "path": "analysis/biological_stages/openscope/final_closure/README_CN.md",
+        "line": 90
+      },
+      {
+        "path": "analysis/biological_stages/openscope/final_closure/README_CN.md",
+        "line": 109
+      },
+      {
+        "path": "analysis/biological_stages/openscope/v2_3/openscope_illusion_analysis_v2_3.py",
+        "line": 9
+      },
+      {
+        "path": "analysis/biological_stages/openscope/v2_3/openscope_illusion_analysis_v2_3.py",
+        "line": 12
+      },
+      {
+        "path": "analysis/biological_stages/openscope/v2_3/README_CN.md",
+        "line": 221
+      },
+      {
+        "path": "analysis/biological_stages/openscope/v2_3/README_CN.md",
+        "line": 231
+      },
+      {
+        "path": "analysis/biological_stages/openscope/v2_3/README_CN.md",
+        "line": 234
+      },
+      {
+        "path": "analysis/biological_stages/stage05c_synphys/phase_scripts/stage5c_frozen_transfer_v2.py",
+        "line": 196
+      },
+      {
+        "path": "analysis/biological_stages/stage05c_synphys/phase_scripts/stage5c_frozen_transfer_v2.py",
+        "line": 513
+      },
+      {
+        "path": "analysis/model_stages/stage01/README.md",
+        "line": 23
+      },
+      {
+        "path": "analysis/model_stages/stage01b/README_STAGE1B.md",
+        "line": 5
+      },
+      {
+        "path": "analysis/model_stages/stage02/README_STAGE2.md",
+        "line": 5
+      },
+      {
+        "path": "analysis/model_stages/stage03/README_STAGE3.md",
+        "line": 5
+      },
+      {
+        "path": "analysis/model_stages/stage04/README_STAGE4.md",
+        "line": 5
+      },
+      {
+        "path": "analysis/model_stages/stage04a/formal_frozen/README_STAGE4A.txt",
+        "line": 5
+      },
+      {
+        "path": "docs/PATH_PORTABILITY.md",
+        "line": 3
+      },
+      {
+        "path": "docs/REPRODUCIBILITY.md",
+        "line": 18
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/build_ed01_05_trials.py",
+        "line": 24
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/build_ed01_05_trials.py",
+        "line": 25
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/ED01/build_ed01_full_v2.py",
+        "line": 22
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/ED01/build_ed01_full_v2.py",
+        "line": 23
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/ED02/build_ed02_full_v2.py",
+        "line": 22
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/ED02/build_ed02_full_v2.py",
+        "line": 23
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/ED03/build_ed03_full_v2.py",
+        "line": 21
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/ED03/build_ed03_full_v2.py",
+        "line": 22
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/ED04/build_ed04_full_v2.py",
+        "line": 22
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/ED04/build_ed04_full_v2.py",
+        "line": 23
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/ED05/build_ed05_full_v2.py",
+        "line": 21
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/ED05/build_ed05_full_v2.py",
+        "line": 22
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/ED06/build_ed06_full_v2.py",
+        "line": 20
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/ED06/build_ed06_full_v2.py",
+        "line": 21
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig01/build_fig01_ab_trial.py",
+        "line": 62
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig02/build_fig02_full_trial.py",
+        "line": 28
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig02/build_fig02_full_trial.py",
+        "line": 29
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig02/schematic_a_trial/build_fig02a_schematic_v1.py",
+        "line": 19
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig02/schematic_a_trial/build_fig02a_schematic_v1.py",
+        "line": 20
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig03/build_fig03_full_trial.py",
+        "line": 26
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig03/build_fig03_full_trial.py",
+        "line": 27
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig03/schematic_a_trial/build_fig03a_schematic_v1.py",
+        "line": 20
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig03/schematic_a_trial/build_fig03a_schematic_v1.py",
+        "line": 21
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig04/build_fig04_full_trial.py",
+        "line": 28
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig04/build_fig04_full_trial.py",
+        "line": 29
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig05/build_fig05_full_trial.py",
+        "line": 24
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig05/build_fig05_full_trial.py",
+        "line": 25
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig06/build_fig06_full_trial.py",
+        "line": 23
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/Fig06/build_fig06_full_trial.py",
+        "line": 24
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI01/build_si01_full_v1.py",
+        "line": 20
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI01/build_si01_full_v1.py",
+        "line": 21
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI02/build_si02_full_v1.py",
+        "line": 20
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI02/build_si02_full_v1.py",
+        "line": 21
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI03/build_si03_full_v1.py",
+        "line": 21
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI03/build_si03_full_v1.py",
+        "line": 22
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI04/build_si04_full_v1.py",
+        "line": 22
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI04/build_si04_full_v1.py",
+        "line": 23
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI05/build_si05_full_v1.py",
+        "line": 20
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI05/build_si05_full_v1.py",
+        "line": 21
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI06/build_si06_full_v1.py",
+        "line": 20
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI06/build_si06_full_v1.py",
+        "line": 21
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI07/build_si07_full_v1.py",
+        "line": 20
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI07/build_si07_full_v1.py",
+        "line": 21
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI08/build_si08_full_v1.py",
+        "line": 20
+      },
+      {
+        "path": "plotting/manuscript_assembly_v5_3/nature_figure_trial/SI08/build_si08_full_v1.py",
+        "line": 21
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/README.md",
+        "line": 29
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/README.md",
+        "line": 32
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/README.md",
+        "line": 39
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/README.md",
+        "line": 42
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/analyze_closure_extensions_v1.py",
+        "line": 18
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/analyze_closure_extensions_v1.py",
+        "line": 897
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/analyze_closure_extensions_v1.py",
+        "line": 904
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/analyze_closure_extensions_v1.py",
+        "line": 905
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/analyze_closure_extensions_v1.py",
+        "line": 906
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/analyze_closure_extensions_v1.py",
+        "line": 909
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/analyze_stage4a_manuscript_v1_1.py",
+        "line": 31
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/analyze_stage4a_manuscript_v1_1.py",
+        "line": 34
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/analyze_stage4_integrated_v1.py",
+        "line": 42
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/analyze_stage4_integrated_v1.py",
+        "line": 45
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/neural_plot_pipeline_v2_4.py",
+        "line": 7
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/neural_plot_pipeline_v2_4.py",
+        "line": 10
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/neural_plot_pipeline_v2_4.py",
+        "line": 1079
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/neural_plot_pipeline_v2_4.py",
+        "line": 1702
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/plot_openscope_final.py",
+        "line": 28
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/plot_openscope_final.py",
+        "line": 32
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/plot_openscope_final.py",
+        "line": 33
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/plot_openscope_final.py",
+        "line": 37
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/plot_stage4a_final.py",
+        "line": 21
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/plot_stage4a_final.py",
+        "line": 49
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/plot_stage4a_final.py",
+        "line": 99
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/plot_stage4a_final.py",
+        "line": 110
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5a_epsilon_sensitivity_patch_v1.py",
+        "line": 43
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5a_epsilon_sensitivity_patch_v1.py",
+        "line": 46
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5a_epsilon_sensitivity_patch_v1.py",
+        "line": 51
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5a_epsilon_sensitivity_patch_v1.py",
+        "line": 55
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5a_epsilon_sensitivity_patch_v1.py",
+        "line": 56
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5a_robustness_closure_v1.py",
+        "line": 8
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5a_robustness_closure_v1.py",
+        "line": 11
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5a_robustness_closure_v1.py",
+        "line": 12
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5a_robustness_closure_v1.py",
+        "line": 13
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5a_robustness_closure_v1.py",
+        "line": 14
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5a_robustness_closure_v1.py",
+        "line": 17
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5a_robustness_closure_v1.py",
+        "line": 18
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5a_robustness_closure_v1.py",
+        "line": 55
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5a_robustness_closure_v1.py",
+        "line": 58
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5br_leverage_closure_v1.py",
+        "line": 9
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5br_leverage_closure_v1.py",
+        "line": 10
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5br_leverage_closure_v1.py",
+        "line": 13
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5br_leverage_closure_v1.py",
+        "line": 650
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_figure_atlas_v1.py",
+        "line": 30
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_figure_atlas_v1.py",
+        "line": 41
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_figure_atlas_v1.py",
+        "line": 42
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_figure_atlas_v1.py",
+        "line": 46
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_figure_atlas_v1.py",
+        "line": 51
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_figure_atlas_v1.py",
+        "line": 56
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_figure_atlas_v1.py",
+        "line": 503
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_integrated_v1.py",
+        "line": 40
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_integrated_v1.py",
+        "line": 43
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_integrated_v1.py",
+        "line": 46
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_integrated_v1.py",
+        "line": 50
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_integrated_v1.py",
+        "line": 53
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_narrative_closure_v2.py",
+        "line": 48
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_narrative_closure_v2.py",
+        "line": 52
+      },
+      {
+        "path": "plotting/panel_suite_v5_3/upstream/stage5c_synphys_narrative_closure_v2.py",
+        "line": 135
+      },
+      {
+        "path": "plotting/supplementary_table_1/Supplementary_Table_1/build_supplementary_table_1.py",
+        "line": 510
+      }
+    ],
+    "secret_hits": [],
+    "freeze_mismatches": [],
+    "package_mismatches": [],
+    "checksum_mismatches": [],
+    "checksum_malformed": []
+  }
+}

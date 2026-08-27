@@ -1,0 +1,186 @@
+{
+  "package": "ComplexityLeverage_ClosureCompute_v2_Turbo",
+  "version": "2.0-turbo",
+  "files": [
+    {
+      "path": "PROVENANCE.md",
+      "sha256": "3e4dc86a55cd0736d69eba56879c967a2e5e179f787697a54e72f2c975fb0ef7",
+      "bytes": 637
+    },
+    {
+      "path": "README_CN.md",
+      "sha256": "d78f0d521c3cd9c5a1190e3b0d344031c89eb62033ef5ff75365dc96b1aa35d0",
+      "bytes": 8882
+    },
+    {
+      "path": "README_TURBO_CN.md",
+      "sha256": "cb7a2ed590060d7dcfc12bfb1cd84d0feff71e06ee53689e9578f176b60c760c",
+      "bytes": 1301
+    },
+    {
+      "path": "VERSION.txt",
+      "sha256": "bcfaed5fb89d8648efa40b15ad1e85084b1ba365e1adf85c0aa2b86bd83bf985",
+      "bytes": 21
+    },
+    {
+      "path": "collect_results.sh",
+      "sha256": "881317ab590f1caf44542c1ce149b27600723a6c5a59863ca8a67eea450fe63e",
+      "bytes": 385
+    },
+    {
+      "path": "collect_results_turbo.sh",
+      "sha256": "cd068299d931c2849c0b0836fea003b23e33037d3f6209068e1f8aab3c3a73b7",
+      "bytes": 781
+    },
+    {
+      "path": "frozen_stage4/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "frozen_stage4/__pycache__/__init__.cpython-313.pyc",
+      "sha256": "48239c6f5e3f33c832e5589bd9abf7012cbf2e9f9bdd27c28d2493072a2fd700",
+      "bytes": 175
+    },
+    {
+      "path": "frozen_stage4/src/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "frozen_stage4/src/__pycache__/__init__.cpython-313.pyc",
+      "sha256": "339dcc25935240459b04215ee72175d9a2582b65d65a551347116dc915cf3c33",
+      "bytes": 179
+    },
+    {
+      "path": "frozen_stage4/src/__pycache__/stage4_gpu_simulator.cpython-313.pyc",
+      "sha256": "de05293517a746bb2c3e4f4ed28b612238e59139a0302bcb4280a6b1f471d3fb",
+      "bytes": 9448
+    },
+    {
+      "path": "frozen_stage4/src/__pycache__/stage4_gpu_simulator_turbo.cpython-313.pyc",
+      "sha256": "2c854ed74512e118f427d715c6ccb0aad86db4d213e78ec6799311fd67983798",
+      "bytes": 10695
+    },
+    {
+      "path": "frozen_stage4/src/__pycache__/stage4_topology.cpython-313.pyc",
+      "sha256": "b0a0fa04e326f4aff943ab4fdc4625d3d69fb948e61ec3361d40ff26e927280f",
+      "bytes": 14722
+    },
+    {
+      "path": "frozen_stage4/src/stage4_gpu_simulator.py",
+      "sha256": "6f31518c432731b856b16a20fc55b13d59a81626770981a7019c9c1bfe2db624",
+      "bytes": 4968
+    },
+    {
+      "path": "frozen_stage4/src/stage4_gpu_simulator_turbo.py",
+      "sha256": "d859a3b37ea93c4427180f3232680662adae86405ab3f74396bb1bbd384f02cc",
+      "bytes": 5710
+    },
+    {
+      "path": "frozen_stage4/src/stage4_topology.py",
+      "sha256": "e474d2d0255b014ef8b473f954f999aaecdc7a5bf1ddcb8d903ae0e91946158a",
+      "bytes": 7277
+    },
+    {
+      "path": "frozen_stage4/stage4a.json",
+      "sha256": "d79281e5c26852a5631fd2fe61ea260e6f7edc2bbb2041e0caaaa6c33e56f10b",
+      "bytes": 1464
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "a6bb238418641e932ff88ea2c2e296776d495f260cbb2c11273ce82209d45d45",
+      "bytes": 62
+    },
+    {
+      "path": "run_all.sh",
+      "sha256": "a3db65c3ba1fa7285c5664a9b91d8abbbf684a7f3a4ba6a0164b287c58335091",
+      "bytes": 1039
+    },
+    {
+      "path": "run_allen_only.sh",
+      "sha256": "ba54d4c7f1d832612732df732d4f4b1ea83fd421b59a21c6dfbbda297bd6ff37",
+      "bytes": 291
+    },
+    {
+      "path": "run_stage4_only.sh",
+      "sha256": "8addb307f265ee9d7acde4c50b2f3795a0b8a8de80d582f748b5295a9139ecaa",
+      "bytes": 552
+    },
+    {
+      "path": "run_stage4_turbo_6way.sh",
+      "sha256": "3c837955945b3f974ce9e47fdf28a09426f52b1ca2e145d9373f2e07641a9565",
+      "bytes": 1847
+    },
+    {
+      "path": "scripts/__pycache__/allen_lag_aware_refit.cpython-313.pyc",
+      "sha256": "98f8de7bfc78d0493f7c88d5c3097d91111208bb0659a88c9447f23f380b1618",
+      "bytes": 47144
+    },
+    {
+      "path": "scripts/__pycache__/common.cpython-313.pyc",
+      "sha256": "be41ecbdf1d1e3e4ebebc2dcff357f28761bc961422e43c0ecace38fad43d954",
+      "bytes": 15632
+    },
+    {
+      "path": "scripts/allen_lag_aware_refit.py",
+      "sha256": "96bcca27c1f4f714a1ec8bf013630c1a75016b4ebcffec5d4dec6b7efca4e418",
+      "bytes": 22743
+    },
+    {
+      "path": "scripts/build_closure_summary.py",
+      "sha256": "e89615329d518708aa828a5e7e0083f69fe24ab03f206b80317e2d6b5b55ea97",
+      "bytes": 2143
+    },
+    {
+      "path": "scripts/check_env.py",
+      "sha256": "1bb6549a1c6f1f300f64a51daa4f77f4f26b11aa83eeb82c887890f86a00e117",
+      "bytes": 382
+    },
+    {
+      "path": "scripts/common.py",
+      "sha256": "629543edd4aa5cfe74e208331b7a845320d9452301ca102b00cb22649af0ff83",
+      "bytes": 6942
+    },
+    {
+      "path": "scripts/import_v1_completed_stage4_tasks.py",
+      "sha256": "831e69d1b7dfca9357ecd15574ee7a9cc6ef7ddcea6c0d838e860d410ed77deb",
+      "bytes": 1759
+    },
+    {
+      "path": "scripts/stage4_cross_state_transfer.py",
+      "sha256": "0cabe23fe8ec784556d02d3fa90cf2ba4ee57a8fc143f3a9b76fbb7e85b1fcf7",
+      "bytes": 13508
+    },
+    {
+      "path": "scripts/stage4_cross_state_transfer_turbo.py",
+      "sha256": "2c9bbb241b52355005c655fd04877f49c44808e4ea42a661b65b90a301f7fcb9",
+      "bytes": 16773
+    },
+    {
+      "path": "scripts/stage4_functional_degeneracy.py",
+      "sha256": "c053b93ac10d5e2d8e98fa5b5b29022dc41756318cd0633ba3eff6addce36137",
+      "bytes": 10805
+    },
+    {
+      "path": "status.sh",
+      "sha256": "cba7b893f7d240ada1670148b0a3f26e95f490bccd341894c9613e26e4638be4",
+      "bytes": 1038
+    },
+    {
+      "path": "status_turbo.sh",
+      "sha256": "a275524dce792afa0aaa0d9ac257a2cd672d707bc8aaf24a62cc108f6756f603",
+      "bytes": 793
+    },
+    {
+      "path": "tests/test_core.py",
+      "sha256": "99297e875d6a1042e4920e7ac922d28836718da39be649f718d5bf34425b0b68",
+      "bytes": 776
+    },
+    {
+      "path": "tests/test_stage4_turbo_parity.py",
+      "sha256": "a259227b4de0d1b73ecc8f325584c8983b0f3756acc44f7ebf43006bd704fc04",
+      "bytes": 1363
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "package": "Supplementary_Table_1",
+  "status": "DRAFT_READY_FOR_WRITING",
+  "title": "Supplementary Table 1 | Quality-control audit of structural variables in the PFC atlas cohort",
+  "source": "Manuscript_Figures_Nature_DataFirst_V5_3/03_SUPPLEMENTARY/S01/S01_c__Zero-variance_structural-variable_audit/source_data/01_S5A_18_PFC_zero_variance_audit__pfc_feature_qc.csv",
+  "source_rows": 26,
+  "source_columns": [
+    "feature",
+    "n",
+    "n_unique",
+    "mean",
+    "std",
+    "min",
+    "max",
+    "zero_variance"
+  ],
+  "zero_variance_fields": [
+    "dendrite_length",
+    "dendrite_nodes"
+  ],
+  "artifacts": {
+    "Supplementary_Table_1.xlsx": {
+      "sha256": "76252bd15abb49a0dd656571581c0fdd76afc5d2fc2dc51e6ee976e6758f82f9",
+      "bytes": 11799
+    },
+    "Supplementary_Table_1.docx": {
+      "sha256": "f6c7abd572e47b5cae6ba1d5afed11d1a47aef8c1af99cca8e6303b193a4d2a2",
+      "bytes": 40303
+    },
+    "Supplementary_Table_1.pdf": {
+      "sha256": "036426ee620ad9b1b7b3da2643b8245b5d834f0ea7352512270c29fbc4478cd9",
+      "bytes": 78105
+    },
+    "Supplementary_Table_1_source.csv": {
+      "sha256": "28689718a7836318516bff379b01857c2b0467be1601d52206972940ac018a38",
+      "bytes": 2337
+    },
+    "Supplementary_Table_1_caption.txt": {
+      "sha256": "48a257d0c905c679a2a30127febc756e285980c2f1c58dd097219b4cdb682a58",
+      "bytes": 877
+    },
+    "README.md": {
+      "sha256": "f949f55178afc68c67a1552ebbc1bdd6c76c4c820b531f52da555038d8317282",
+      "bytes": 1605
+    },
+    "QA_REPORT.md": {
+      "sha256": "ac004b07b277aa10a547627b5ffa7366d7aeb4dd9942132a79a6fb2dddf481c8",
+      "bytes": 1165
+    },
+    "build_supplementary_table_1.py": {
+      "sha256": "6eb9533bbce752622092f49f872819182d62c59298d5467f78293ef7d88682ca",
+      "bytes": 21326
+    }
+  }
+}

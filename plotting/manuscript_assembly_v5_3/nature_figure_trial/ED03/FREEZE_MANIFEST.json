@@ -1,0 +1,16 @@
+{
+  "figure": "ED03",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_full_v2",
+  "note": "User-approved Fig03 confirmatory support figure. ED03 uses a 17 mm inter-row gap to clear the rotated heatmap labels; panel-label offsets remain identical to ED01/02. Do not modify without explicitly unfreezing ED03.",
+  "sha256": {
+    "output_full_v2/ED03_full_nature_trial_v2.pdf": "3a5697b2729d7de1ac507722470643b676cf898c987c57aa3cd27751de738758",
+    "output_full_v2/ED03_full_nature_trial_v2.svg": "893ed47584be0f9205c03eeb27b5973583c3cf6ec021c900e052f40bac82b179",
+    "output_full_v2/ED03_full_nature_trial_v2.png": "0dff4b0db15e03e28aa9e9736e43022e7573ba42369dada29c0962d4910ff6d0",
+    "output_full_v2/ED03_full_nature_trial_v2.tiff": "585931ec3c4754017f1e9a1ec6c8864f96b05ff41c97de56bd2c4576ac9f4be8",
+    "output_full_v2/source_data_manifest.json": "1ef43475bf1ebcf23720a31e3da3ec671381170873238a993a31f0619f048b38",
+    "build_ed03_full_v2.py": "eaaaf7a2cc2be98db270688c167be0cce3408ddb36e4cb38eb20c375d9182e68",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

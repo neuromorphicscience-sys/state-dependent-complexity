@@ -1,0 +1,6 @@
+family,target_axis_width_mm,target_axis_height_mm,usage
+standard,58,42,general line / scatter / bar / paired panels
+wide,70,42,wider profile / budget / trajectory panels
+heatmap,46,46,heatmaps and matrix panels
+forest,60,38,forest / coefficient / summary interval panels
+histogram,58,40,histogram / null distribution panels

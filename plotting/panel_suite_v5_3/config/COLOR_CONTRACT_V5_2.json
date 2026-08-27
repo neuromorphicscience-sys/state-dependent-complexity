@@ -1,0 +1,46 @@
+{
+  "semantic_colors": {
+    "complexity": "#2F4B7C",
+    "leverage": "#2A9D8F",
+    "biology": "#D4A373",
+    "mismatch": "#B86B4B",
+    "support": "#7B6D8D",
+    "secondary": "#6B9FB3",
+    "accent": "#8FA57A",
+    "rose": "#C97C7C",
+    "black": "#111111",
+    "dark_gray": "#4D4D4D",
+    "mid_gray": "#8C8C8C",
+    "light_gray": "#CFCFCF",
+    "very_light_gray": "#EEEEEE",
+    "white": "#FFFFFF"
+  },
+  "datasets": {
+    "simulation": "#2F4B7C",
+    "allen": "#D4A373",
+    "steinmetz": "#6B9FB3",
+    "synphys": "#7B6D8D",
+    "openscope": "#2A9D8F"
+  },
+  "methods": {
+    "dynamics_aware": "#2A9D8F",
+    "optimized": "#2A9D8F",
+    "spectral": "#2F4B7C",
+    "feedback_hub": "#6B9FB3",
+    "high_degree": "#7B6D8D",
+    "module_bridge": "#8FA57A",
+    "cycle_proxy": "#C97C7C",
+    "random": "#8C8C8C"
+  },
+  "states": {
+    "sparse_drive": "#2A9D8F",
+    "transition_mid": "#7B6D8D",
+    "transition_dense": "#2F4B7C"
+  },
+  "topologies": {
+    "scale_free": "#6B9FB3",
+    "small_world": "#8FA57A",
+    "modular": "#7B6D8D",
+    "erdos_renyi": "#D4A373"
+  }
+}

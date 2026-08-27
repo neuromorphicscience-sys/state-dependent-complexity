@@ -1,0 +1,87 @@
+{
+  "device": "cuda",
+  "output_dir": "results_stage4a",
+  "n_neurons": 256,
+  "dt_ms": 0.05,
+  "duration_ms": 2500.0,
+  "warmup_ms": 500.0,
+  "record_bin_ms": 1.0,
+  "noise_chunk_steps": 256,
+  "lif": {
+    "v_rest": -65.0,
+    "v_reset": -65.0,
+    "v_th": -50.0,
+    "tau_m_ms": 20.0,
+    "refractory_ms": 2.0,
+    "bias": 0.75
+  },
+  "hh": {
+    "bias_uA_cm2": 9.5
+  },
+  "synapse": {
+    "tau_ms": 5.0,
+    "e_rev_mv": 0.0
+  },
+  "topologies": [
+    "scale_free"
+  ],
+  "regimes": [
+    {
+      "name": "transition_dense",
+      "coupling": 0.035,
+      "connection_prob": 0.1,
+      "noise_sigma": 1.0
+    },
+    {
+      "name": "transition_mid",
+      "coupling": 0.035,
+      "connection_prob": 0.05,
+      "noise_sigma": 1.0
+    },
+    {
+      "name": "sparse_drive",
+      "coupling": 0.05,
+      "connection_prob": 0.05,
+      "noise_sigma": 1.0
+    }
+  ],
+  "k_values": [
+    8,
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "discovery_graph_seeds": [
+    41001,
+    41002
+  ],
+  "heldout_graph_seeds": [
+    41901,
+    41902
+  ],
+  "optimizer": {
+    "population": 4096,
+    "elite": 512,
+    "generations": 6,
+    "random_injection": 512,
+    "swap_mutations": 2
+  },
+  "validation_random_placements": 32,
+  "validation_noise_seeds": [
+    5101,
+    5102,
+    5103,
+    5104
+  ],
+  "analysis_thresholds": [
+    0.2,
+    0.3,
+    0.4,
+    0.5
+  ],
+  "surrogate_ridge_lambda": 0.05,
+  "prospective_library_size": 2048,
+  "heldout_random_controls": 32
+}

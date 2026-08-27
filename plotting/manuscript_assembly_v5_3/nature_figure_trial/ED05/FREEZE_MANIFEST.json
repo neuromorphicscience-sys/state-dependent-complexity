@@ -1,0 +1,16 @@
+{
+  "figure": "ED05",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_full_v2",
+  "note": "User-approved Fig05 biological-complexity robustness figure. Final adjustments separate panel e labels/title, restore panel h width, and leave panel i fixed. Do not modify without explicitly unfreezing ED05.",
+  "sha256": {
+    "output_full_v2/ED05_full_nature_trial_v2.pdf": "ffe005e5ef6c9a38d388454feac5c4f98f013e795b3ad769f96bf0f26a297199",
+    "output_full_v2/ED05_full_nature_trial_v2.svg": "3f6ae14ce2845a629dbca7acb4840a5ac8bad884aae4c00f68b47a657c9d9464",
+    "output_full_v2/ED05_full_nature_trial_v2.png": "5f801c048d3c39d974f731b01be17f928beaf28900392332e745fc30887beea0",
+    "output_full_v2/ED05_full_nature_trial_v2.tiff": "b77cd48730e7272fa688dff1d6706236aa6b691b6cf3231527fbde444b3f7869",
+    "output_full_v2/source_data_manifest.json": "58b01e56fdfa62667c1af7300bbd5cb56633d4a02ebcefb895090df9bb383256",
+    "build_ed05_full_v2.py": "9456b527b0ee9f67c71293b4228b02f4517bc54e99bad72bbf7d0c064b43c32d",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

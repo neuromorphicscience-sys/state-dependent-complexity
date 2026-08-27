@@ -1,0 +1,16 @@
+{
+  "figure": "SI08",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_full_v1",
+  "note": "User-approved OpenScope top-unit/top-set robustness figure with nine aligned data axes and all local annotations above the data frames.",
+  "sha256": {
+    "output_full_v1/SI08_full_nature_trial_v1.pdf": "a5fa88332fe91f15123537ce452b7f8d0b88b5636e9d12a3125077347f3ff58d",
+    "output_full_v1/SI08_full_nature_trial_v1.svg": "c9dfc27b4c5a681e0a9f9473e0de5da634136997c0015c19c910019c845c0a47",
+    "output_full_v1/SI08_full_nature_trial_v1.png": "2775052a6cf0f6d0b0469354edf31c807831ecd14f394729a1850d5c72637a90",
+    "output_full_v1/SI08_full_nature_trial_v1.tiff": "7014fdb381063da89938bf35aaf28c044e77f0141d4a748847adfc0a843f2aae",
+    "output_full_v1/source_data_manifest.json": "a722d4fec2ed6f5690e143735c05533940a752ce78a53d546e43c30a862d0f77",
+    "build_si08_full_v1.py": "91f1a30cdd947bed33eeec1b6a04b1b8be555d35b6b547539d19b664ede364ab",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

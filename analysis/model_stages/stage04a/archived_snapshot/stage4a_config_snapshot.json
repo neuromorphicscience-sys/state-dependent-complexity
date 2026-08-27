@@ -1,0 +1,87 @@
+{
+  "analysis_thresholds": [
+    0.2,
+    0.3,
+    0.4,
+    0.5
+  ],
+  "device": "cuda",
+  "discovery_graph_seeds": [
+    41001,
+    41002
+  ],
+  "dt_ms": 0.05,
+  "duration_ms": 2500.0,
+  "heldout_graph_seeds": [
+    41901,
+    41902
+  ],
+  "heldout_random_controls": 32,
+  "hh": {
+    "bias_uA_cm2": 9.5
+  },
+  "k_values": [
+    8,
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "lif": {
+    "bias": 0.75,
+    "refractory_ms": 2.0,
+    "tau_m_ms": 20.0,
+    "v_reset": -65.0,
+    "v_rest": -65.0,
+    "v_th": -50.0
+  },
+  "n_neurons": 256,
+  "noise_chunk_steps": 256,
+  "optimizer": {
+    "elite": 512,
+    "generations": 6,
+    "population": 4096,
+    "random_injection": 512,
+    "swap_mutations": 2
+  },
+  "output_dir": "results_stage4a",
+  "prospective_library_size": 2048,
+  "record_bin_ms": 1.0,
+  "regimes": [
+    {
+      "connection_prob": 0.1,
+      "coupling": 0.035,
+      "name": "transition_dense",
+      "noise_sigma": 1.0
+    },
+    {
+      "connection_prob": 0.05,
+      "coupling": 0.035,
+      "name": "transition_mid",
+      "noise_sigma": 1.0
+    },
+    {
+      "connection_prob": 0.05,
+      "coupling": 0.05,
+      "name": "sparse_drive",
+      "noise_sigma": 1.0
+    }
+  ],
+  "surrogate_ridge_lambda": 0.05,
+  "synapse": {
+    "e_rev_mv": 0.0,
+    "tau_ms": 5.0
+  },
+  "topologies": [
+    "scale_free"
+  ],
+  "validation_noise_seeds": [
+    5101,
+    5102,
+    5103,
+    5104
+  ],
+  "validation_random_placements": 32,
+  "warmup_ms": 500.0
+}

@@ -1,0 +1,19 @@
+{
+  "figure": "Fig03",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_full_v1",
+  "note": "User-approved compact three-row reference with natural panel order a-f and the completed native-vector Fig03a schematic. Panel a is 34 x 20.5 mm, shifted 3.5 mm left to separate it from panel b; all quantitative geometry and scientific content are unchanged.",
+  "sha256": {
+    "output_full_v1/Fig03_full_nature_trial.pdf": "001102000c6004eeb851c676086978a2df9c44febf578fd333319e8a44bebdee",
+    "output_full_v1/Fig03_full_nature_trial.svg": "6daf84e3f6b045f62a2e0448deeabdb73ecd41d211f2513cb261c554f5db6350",
+    "output_full_v1/Fig03_full_nature_trial.png": "39dd341c60acb1cab0760e23c831bbcdb4b1d73c16628377c58c3f8a27a17e5d",
+    "output_full_v1/Fig03_full_nature_trial.tiff": "655c9765c1eaa33991046c3876d9795fe7dba2eadad83de54f7f738d8827a92b",
+    "output_full_v1/source_data_manifest.json": "d0a841da72ba67526005b92a003dae4bc35e7e87365d55c059fbd9691bed19b3",
+    "build_fig03_full_trial.py": "4137a3195871322e8f77db5a5fee4e573016953e3a1d69dca8b3de27624f1a8b",
+    "schematic_a_trial/build_fig03a_schematic_v1.py": "9fa7a82f85f3c53a4f4b385ca8788ec6ef67b36109faf2044f49afd655cf0f4b",
+    "figure_contract.md": "ebc56a1b6a9a64923d251fb1741e3387606c39f098777eefc782fa642e365656",
+    "QA_REPORT.md": "45e827d52bd6ef95ada3e50a5869faf35418f53c30b01f399c8595fcba5793e5",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

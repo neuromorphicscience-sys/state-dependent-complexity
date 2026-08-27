@@ -1,0 +1,16 @@
+{
+  "figure": "SI01",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_full_v1",
+  "note": "User-approved SynPhys/PFC cohort and intrinsic-complexity stratification supplementary figure. Supplementary Table 1 source is mapped but table rendering is deferred until all SI figures are complete.",
+  "sha256": {
+    "output_full_v1/SI01_full_nature_trial_v1.pdf": "13cda37ae6867e20429473dabaf82bd73465580b840ded9d2a8ce4c418b627b2",
+    "output_full_v1/SI01_full_nature_trial_v1.svg": "2330e6011b66c2ce6969c253f0b8ef899ed71ffbc4ea644631fb6e0a785949c7",
+    "output_full_v1/SI01_full_nature_trial_v1.png": "bf89e5dc1f74e545f4c7f35e99151ad8dc1c9d88b9b499e5ee7ec574b83cede4",
+    "output_full_v1/SI01_full_nature_trial_v1.tiff": "4b474c489f3594f20ce0fed2ca529189d8f398abc387baaf4fe559b6423ca3f1",
+    "output_full_v1/source_data_manifest.json": "827c4493ec6cf70c61901cb9e7e96831255808f1d4d6c89a1132c88048370d00",
+    "build_si01_full_v1.py": "2ac8332b6755e74d289ec9272e4b086e9f91623431d263c3be5783f05ef35a93",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

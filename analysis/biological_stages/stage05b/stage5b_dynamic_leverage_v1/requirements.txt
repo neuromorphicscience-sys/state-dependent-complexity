@@ -1,0 +1,9 @@
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.4
+h5py>=3.10
+pynwb>=2.8
+pyyaml>=6.0
+tqdm>=4.66
+pyarrow>=15

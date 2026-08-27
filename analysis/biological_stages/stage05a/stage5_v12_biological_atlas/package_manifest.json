@@ -1,0 +1,77 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 1828,
+    "sha256": "cb776e0f789ae41736c3cdfa4c82e42effb4d4cac702aec367fa508a778ea02e"
+  },
+  {
+    "path": "config.json",
+    "bytes": 1178,
+    "sha256": "0a2b460984f7a5adb1c127641c41f48cd3666069166e78c9b32e71818b4f3481"
+  },
+  {
+    "path": "docs/COMMANDS.md",
+    "bytes": 2157,
+    "sha256": "43054ec02b3d738438c3979235f66fdee6e4111b80f8e0d21cb24626949b0d6a"
+  },
+  {
+    "path": "monitor_v12.sh",
+    "bytes": 1230,
+    "sha256": "27b6007e79e50d45d71ff2d9751503852ba7bcbeef32039081d8f4df0ea9ec9b"
+  },
+  {
+    "path": "run_v12.sh",
+    "bytes": 2305,
+    "sha256": "fc4d52d3bfc78362be88c38ff66cbab9e3330b023064522cbd9e693e0b76c504"
+  },
+  {
+    "path": "scripts/__pycache__/common.cpython-313.pyc",
+    "bytes": 8513,
+    "sha256": "f4b226f0f20fb5232cc29fe4051963fc8e9fcfc6b24a5973cb5f6de899dd6d71"
+  },
+  {
+    "path": "scripts/__pycache__/digital_brain_v12.cpython-313.pyc",
+    "bytes": 17603,
+    "sha256": "dc575fd190348590f99dd279f31ded559879b2c48f5ffdedd13544f2848fb55a"
+  },
+  {
+    "path": "scripts/allen_multiaxial_v12.py",
+    "bytes": 10235,
+    "sha256": "a2b7ab365667ca3d0312cc134b154f62c0b5346067b8c1dd2b7a1dc52b0941e1"
+  },
+  {
+    "path": "scripts/certify_v12.py",
+    "bytes": 621,
+    "sha256": "e894b99badffea4970eb0a53b79b1d1e6d472fa8d636854f700f8c6b27996140"
+  },
+  {
+    "path": "scripts/common.py",
+    "bytes": 2968,
+    "sha256": "1a745fbf164e72ae9df3e6d420e472800a3e02f912104d9334c804828807ab3f"
+  },
+  {
+    "path": "scripts/digital_brain_v12.py",
+    "bytes": 7801,
+    "sha256": "feded14784fd9f4b923cc48fa1b9cf8ee2a6cca807039c996389aa375e417612"
+  },
+  {
+    "path": "scripts/final_adjudication_v12.py",
+    "bytes": 7025,
+    "sha256": "11ef75bb02193a4c111fc9daf2482121ba8a12671624f6cd971ff168b55ebdb5"
+  },
+  {
+    "path": "scripts/make_figures_v12.py",
+    "bytes": 2502,
+    "sha256": "6a94d5684804684d15c57bd9eec80186e228fb0ff32aeb8c914aa968f537e682"
+  },
+  {
+    "path": "scripts/preflight_v12.py",
+    "bytes": 2634,
+    "sha256": "31841434f60cd4cc943d81217facd068f60813c27b43818e49e0c444fe53e416"
+  },
+  {
+    "path": "scripts/structural_stats_v12.py",
+    "bytes": 3560,
+    "sha256": "4b01c05b85269bbe6d01923c7e3d7c73aa149b262fdef9d6630954c0d84fa1e3"
+  }
+]

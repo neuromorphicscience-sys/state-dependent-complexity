@@ -1,0 +1,49 @@
+{
+  "version": "5.3",
+  "intent": "Unified redraw contract matching the user's preferred reference panels",
+  "core_palette": {
+    "teal": "#2A9D8F",
+    "blue": "#38598C",
+    "purple": "#8B7DAA",
+    "orange": "#C1743C",
+    "olive": "#90A86B",
+    "rose": "#C97C7C",
+    "slate": "#6B8FA8",
+    "dark_gray": "#4D4D4D",
+    "mid_gray": "#8C8C8C",
+    "light_gray": "#CFCFCF"
+  },
+  "state_colors": {
+    "Sparse / Sparse drive": "#2A9D8F",
+    "Transition mid": "#8B7DAA",
+    "Transition dense": "#38598C"
+  },
+  "dataset_colors": {
+    "Simulation": "#38598C",
+    "Allen": "#C1743C",
+    "Steinmetz": "#6B8FA8",
+    "SynPhys": "#8B7DAA",
+    "OpenScope": "#2A9D8F"
+  },
+  "method_colors": {
+    "Dynamics-aware": "#2A9D8F",
+    "Spectral baseline": "#38598C",
+    "Feedback hub": "#6B8FA8",
+    "High degree": "#8B7DAA",
+    "Module bridge": "#90A86B",
+    "Cycle proxy": "#C97C7C",
+    "Random": "#8C8C8C"
+  },
+  "heatmap": {
+    "diverging": ["#2166AC", "#F7F7F7", "#B2182B"],
+    "sequential": ["#F7FBFF", "#6BAED6", "#08519C"]
+  },
+  "render_rules": {
+    "filled_markers": true,
+    "marker_size_range_pt": [3.2, 4.6],
+    "line_width_range_pt": [0.45, 1.05],
+    "ribbon_alpha_max": 0.14,
+    "annotation_font_pt_max": 6.0,
+    "legend_frame": false
+  }
+}

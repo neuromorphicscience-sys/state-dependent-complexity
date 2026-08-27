@@ -1,0 +1,13 @@
+{
+  "figure": "Fig05",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-24",
+  "release_directory": "output_full_v1",
+  "note": "User-approved ten-panel reference with complete data-axis titles. Visible labels remain a-j without nested roman numerals; internal microplot mappings are retained. Do not modify without explicitly unfreezing Fig05.",
+  "sha256": {
+    "output_full_v1/Fig05_full_nature_trial.pdf": "33d68f14223395e7f0d413f60c75c77c754e292c7d1f373031360f5c17f1a4d3",
+    "output_full_v1/Fig05_full_nature_trial.svg": "6eafe7ea344b354c5609f87f724ed63ca75e85ecb1ee3088d2e0ad0a03dda53f",
+    "output_full_v1/Fig05_full_nature_trial.png": "e7209043262a2b9837a19cfd87870f2827e98c27e70d7e665df68d425e56f0b5",
+    "build_fig05_full_trial.py": "fba32cba9511b87436176d2f179580d8f77c052b7ae5d895e362651bb022e8eb"
+  }
+}

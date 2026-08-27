@@ -1,0 +1,16 @@
+{
+  "figure": "ED02",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-24",
+  "release_directory": "output_full_v2",
+  "note": "User-approved Fig02 support figure. Three rows use 13 mm inter-row gaps and fixed main-Fig01 panel-label offsets. Panel b uses an inset white legend; panel e uses a lower-left topology legend. Do not modify without explicitly unfreezing ED02.",
+  "sha256": {
+    "output_full_v2/ED02_full_nature_trial_v2.pdf": "8007379fd97814ff56a0f357419fcc49401535c74d65af7192c36e2307513d78",
+    "output_full_v2/ED02_full_nature_trial_v2.svg": "56c6a3e0c00880b556ff69a1ba3561892d565f435da3288a7f69f6971fd1c10a",
+    "output_full_v2/ED02_full_nature_trial_v2.png": "0d927a928c375acf10723eb262e4b70e654b1b3fc7b1fda0c5112a74698c292e",
+    "output_full_v2/ED02_full_nature_trial_v2.tiff": "dd1072cd240f75c058bf38aaa180ad770a6818ed679079012465996fa371263f",
+    "output_full_v2/source_data_manifest.json": "fdfa438505d691a6b9356194efe0574368472d11dfdf16e36ae2c334ec94ab45",
+    "build_ed02_full_v2.py": "417d88197bbd4da3df77c7ae9ec133778f450f3fe5f7d35b12e2b133ee19bc83",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

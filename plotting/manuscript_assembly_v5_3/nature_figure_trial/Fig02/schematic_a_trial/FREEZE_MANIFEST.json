@@ -1,0 +1,15 @@
+{
+  "figure": "Fig02a",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_v1",
+  "note": "User-approved standalone 34 x 19 mm controlled resource-allocation schematic without the former top control sentence or horizontal rule.",
+  "sha256": {
+    "output_v1/Fig02a_controlled_resource_allocation_v1.pdf": "9e2a9d8e83e047103e81b3fcb77c199f18b6fcb899ccd3bac8738a426943125d",
+    "output_v1/Fig02a_controlled_resource_allocation_v1.svg": "cc495f2733fd93ed5dde23d5c441df6264a3e28bd07ecf7659a4e8ee107b3fa1",
+    "output_v1/Fig02a_controlled_resource_allocation_v1.png": "e037d4cd62941c6d02cd673128a02e770310ae382cf2e5acdb23fd8c44e5d969",
+    "output_v1/Fig02a_controlled_resource_allocation_v1.tiff": "84b5d018182b9584f41ca8c293ddeb6dc76641fe1456bfe5841c2b803ca728cb",
+    "output_v1/schematic_metadata.json": "7b9cafc63355b92204bb143fd61f66542a9d5b59c4b1c560f48cef3afb6990f7",
+    "build_fig02a_schematic_v1.py": "1e9fd492228f4565d3cbe020ea312954ca52ba6cba8ed8c04984ee136c0a443d"
+  }
+}

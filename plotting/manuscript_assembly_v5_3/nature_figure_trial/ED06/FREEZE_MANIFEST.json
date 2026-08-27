@@ -1,0 +1,16 @@
+{
+  "figure": "ED06",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_full_v2",
+  "note": "User-approved Fig06 population-state control figure. Final version adds categorical x-axis titles while retaining the approved axes geometry and 13 mm row gaps. Do not modify without explicitly unfreezing ED06.",
+  "sha256": {
+    "output_full_v2/ED06_full_nature_trial_v2.pdf": "cd1fcb5d10dd2d1280a3ab5b2094fc7523868bb051ca90052dd9b4e953572916",
+    "output_full_v2/ED06_full_nature_trial_v2.svg": "d10ad26d8b6af6a7b3d3e2ae1a875eb8d3c0deed62464cab4232a01cf20b0bcf",
+    "output_full_v2/ED06_full_nature_trial_v2.png": "3686835c6f8f59e667eccd46148d6a5292e766bd5641e92547f5d9828caec1e5",
+    "output_full_v2/ED06_full_nature_trial_v2.tiff": "0ed46047fb68388d68c4b951b6d31f229ef0e89e30d291fa8e6c901d2d89fd6d",
+    "output_full_v2/source_data_manifest.json": "cb7fd28e79198ff84b81f3014013e2b156f90a0f7986d5368b3da58a38646852",
+    "build_ed06_full_v2.py": "850f92298dcbe9cd62fdbe1c643bd9bd45bbc8cc3c01334b408228fb431946e5",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "figure": "Fig04",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-24",
+  "release_directory": "output_full_v1",
+  "note": "User-approved eight-panel reference with promoted selection entropy; data-axis titles audited complete. Do not modify without explicitly unfreezing Fig04.",
+  "sha256": {
+    "output_full_v1/Fig04_full_nature_trial.pdf": "6121b7faf8d7736d354ac8f9f031504841a1e8fffd9bc0f4f665d573eaa3df0e",
+    "output_full_v1/Fig04_full_nature_trial.svg": "9e385537434e77dee8d6c7a529f355b0fc40a4d07bd3b833e0a644b3bbbc3e18",
+    "output_full_v1/Fig04_full_nature_trial.png": "1e70f05957296077cf0a30c3649010e73de92471621f3f22be0da6dfbc5b25e0",
+    "build_fig04_full_trial.py": "5c72b22ffb76f18a5de6cf4b7871c1e157e4f890db3316b5d64ea0231b15fba0"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "project_root": "/data/coding/NeuralScience",
+  "allen_root": "/data/coding/NeuralScience/biological_data/allen_cell_types",
+  "digital_whole_root": "/data/coding/NeuralScience/biological_data/digital_brain_whole_cortex",
+  "digital_pfc_root": "/data/coding/NeuralScience/biological_data/digital_brain_pfc",
+  "output_root": "/data/coding/NeuralScience/biological_results/stage5_biological_discovery_v1",
+  "target_rate_hz": 1000,
+  "contexts_ms": [
+    10,
+    25,
+    50,
+    100,
+    200,
+    500
+  ],
+  "epsilon_primary": 0.02,
+  "epsilon_sensitivity": [
+    0.01,
+    0.05
+  ],
+  "min_noise_cells": 900,
+  "digital_cpu_workers": 24,
+  "allen_cpu_workers": 16,
+  "gpu_profile": {
+    "batch_size": 4096,
+    "train_steps_per_context": 2200,
+    "eval_windows_per_cell": 256,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "cell_embedding_dim": 32,
+    "compile": true,
+    "amp_dtype": "bfloat16"
+  },
+  "claim_thresholds": {
+    "temporal_repro_rho": 0.3,
+    "median_long_short_r2_gain": 0.01,
+    "structural_subtype_eta2": 0.05,
+    "alpha": 0.001
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "figure": "SI07",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_full_v1",
+  "note": "User-approved two-row SI7 layout with all local annotations above the data frames.",
+  "sha256": {
+    "output_full_v1/SI07_full_nature_trial_v1.pdf": "cdfdffc6560431b5ab91950d62731f51b022dc3c367449a941b7a34af9e4147f",
+    "output_full_v1/SI07_full_nature_trial_v1.svg": "35c25b298c97f08fc3190295df1705b111c218740fbece865c0b28c2c9d40558",
+    "output_full_v1/SI07_full_nature_trial_v1.png": "cf2802d1255f597a25e7752ac75b79bc33edd0c0fb8457b08e1eb559f70b6022",
+    "output_full_v1/SI07_full_nature_trial_v1.tiff": "ff35b356e1a0865c0186282230b5aa8a10041ec8dcc0b254874ec9248c7c1a69",
+    "output_full_v1/source_data_manifest.json": "18d8de965a34e2462d2d13c8efcb3a1ffc73895fd12854430665f364745b0043",
+    "build_si07_full_v1.py": "e3ff4888744daf049aa690882d86eea1cac749505460cbca373244630baec705",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

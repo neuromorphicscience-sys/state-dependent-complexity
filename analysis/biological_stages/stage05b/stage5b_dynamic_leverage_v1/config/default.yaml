@@ -1,0 +1,28 @@
+project_root: /data/coding/NeuralScience
+steinmetz_root: /data/coding/NeuralScience/biological_data/stage5b_dynamic/steinmetz_dandi_000017
+allen_root: /data/coding/NeuralScience/biological_data/stage5b_dynamic/allen_visual_behavior_2p_official_s3
+output_root: /data/coding/NeuralScience/biological_results/stage5b_dynamic_leverage_v1
+bin_seconds_steinmetz: 0.05
+bin_seconds_allen: 0.25
+latent_components: 20
+dynamics_lag_bins: 1
+ridge_alpha: 1.0
+min_state_bins: 80
+min_trials_predictive: 40
+random_seed: 20260819
+steinmetz_windows:
+  baseline:
+  - -0.5
+  - 0.0
+  visual:
+  - 0.0
+  - 0.25
+  decision:
+  - -0.25
+  - 0.0
+  movement:
+  - 0.0
+  - 0.3
+  outcome:
+  - 0.0
+  - 0.5

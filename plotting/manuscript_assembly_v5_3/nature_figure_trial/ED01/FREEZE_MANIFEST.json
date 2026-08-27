@@ -1,0 +1,16 @@
+{
+  "figure": "ED01",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-24",
+  "release_directory": "output_full_v2",
+  "note": "User-approved six-panel Fig01 support figure. The 13 mm inter-row gap and panel-label placement (8 mm left, 2 mm above, 8 pt) match frozen main Fig01. Do not modify without explicitly unfreezing ED01.",
+  "sha256": {
+    "output_full_v2/ED01_full_nature_trial_v2.pdf": "b63cee8dccd6a72cefa6b9c984cb33a0f73a8c40aa823354bd1613c0964d35bf",
+    "output_full_v2/ED01_full_nature_trial_v2.svg": "e3343d0fd799eedcb086dfae500d48acd03aa6a16ce9ef1bda9c61719cb99d81",
+    "output_full_v2/ED01_full_nature_trial_v2.png": "48f26b1c16c3fafc945c2d450d53916c42653a6b2f60bbeea21d46c38a0160a8",
+    "output_full_v2/ED01_full_nature_trial_v2.tiff": "6968d1d4344ab2b3fa630610916435b11130ee0bffe730031c3b6c3d14d00963",
+    "output_full_v2/source_data_manifest.json": "7c14b13c9e8d3be6566d0a6f594e9a442002cc25233ac621ea9e9e9d5bdeea0a",
+    "build_ed01_full_v2.py": "47506222f3d3f57e3659e118781d975f7f5d563071936e02d81acb123802981d",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

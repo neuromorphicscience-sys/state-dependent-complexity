@@ -1,0 +1,47 @@
+{
+  "version": "1.2.0",
+  "project_root": "/data/coding/NeuralScience",
+  "allen_root": "/data/coding/NeuralScience/biological_data/allen_cell_types",
+  "digital_whole_root": "/data/coding/NeuralScience/biological_data/digital_brain_whole_cortex",
+  "digital_pfc_root": "/data/coding/NeuralScience/biological_data/digital_brain_pfc",
+  "v11_result_root": "/data/coding/NeuralScience/biological_results/stage5_biological_discovery_v1",
+  "output_root": "/data/coding/NeuralScience/biological_results/stage5_biological_discovery_v12",
+  "digital_cpu_workers": 24,
+  "primary_species": "mouse",
+  "c_model_epsilon": 0.02,
+  "contexts_ms": [
+    10,
+    25,
+    50,
+    100,
+    200,
+    500
+  ],
+  "cv": {
+    "outer_folds": 5,
+    "repeats": 10,
+    "alphas": [
+      0.001,
+      0.01,
+      0.1,
+      1.0,
+      10.0,
+      100.0,
+      1000.0
+    ],
+    "permutations": 300,
+    "bootstrap": 3000,
+    "seed": 20260819
+  },
+  "structural": {
+    "permutations": 5000,
+    "seed": 20260819,
+    "min_group_n": 5
+  },
+  "adjudication": {
+    "alpha": 0.01,
+    "multiaxial_vs_temporal_delta_rho": 0.1,
+    "ephys_vs_metadata_delta_rho": 0.05,
+    "structural_r2_min": 0.05
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "figure": "SI03",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_full_v1",
+  "note": "User-approved Steinmetz behavioral-relevance figure. The frozen layout contains compact session/data-row audits and predictive-dynamical rank correlations on the first row, with three same-scale behavioral heatmaps and one shared colorbar on the second row.",
+  "sha256": {
+    "output_full_v1/SI03_full_nature_trial_v1.pdf": "a1158e949a3f43860a4c4466ca38ecfaf69d2480888beaeb2768107d719fb676",
+    "output_full_v1/SI03_full_nature_trial_v1.svg": "b6ee0c1a70c4b830217a0f42c68ceafcaf4a41021700743973db8e7d2889b88a",
+    "output_full_v1/SI03_full_nature_trial_v1.png": "91a1653a533b182e0311cfc5a8f82fe273cf70a48a87622f23bc7ae4acae5f5d",
+    "output_full_v1/SI03_full_nature_trial_v1.tiff": "e05907b847450c519c81154ddfe35cb25fad1aa8d030a936f9716c6d342434c2",
+    "output_full_v1/source_data_manifest.json": "2f402229db85109bfab9d0c2e42f2ddce047e99403c4dfa2be9d0c84451c4a0e",
+    "build_si03_full_v1.py": "cb7a4d7752c46f8a93579b69d28e3e9160b107e8e17f7caf8dc0e2e727f34750",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

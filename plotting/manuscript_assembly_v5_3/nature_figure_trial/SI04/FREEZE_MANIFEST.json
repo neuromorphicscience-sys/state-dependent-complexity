@@ -1,0 +1,16 @@
+{
+  "figure": "SI04",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_full_v1",
+  "note": "User-approved adaptive-lag and latent-model diagnostic figure. The frozen 2 x 3 layout contains six aligned 36 x 27 mm data axes with Fig.1-consistent heatmap colors.",
+  "sha256": {
+    "output_full_v1/SI04_full_nature_trial_v1.pdf": "acd5bb6fc8a39e64b8b86bb7e291a7aa8a06408fdaae3687e41ce7622469b638",
+    "output_full_v1/SI04_full_nature_trial_v1.svg": "735aad5fcc17a45905add1e3dbc05064b1c620944e4349df09bb77191a310b6f",
+    "output_full_v1/SI04_full_nature_trial_v1.png": "1767b66f1391654d34c8cd21922732014fd64ee9c02549883eca555c4beb69a6",
+    "output_full_v1/SI04_full_nature_trial_v1.tiff": "b736906a5060cbd03a16d5d5624e68a4beadae8caff74de9f5e8f141998152eb",
+    "output_full_v1/source_data_manifest.json": "f3d5413499a6fd1afb69a67a3e109104cd3385289344a36e81728d0f7cf6a157",
+    "build_si04_full_v1.py": "a1a6f62907c4bccd68d31a6f5cacde7f1b9f04c2d31432d02084cfa5e0b8e86e",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "figure": "Fig06",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-24",
+  "release_directory": "output_full_v1",
+  "note": "User-approved four-row a-i evidence figure. Former schematic j removed; ED7 quality-gated Allen stability promoted into b. Do not modify without explicitly unfreezing Fig06.",
+  "sha256": {
+    "output_full_v1/Fig06_full_nature_trial.pdf": "c015bd6d3944554b33ecf6994105e7a9c396e5ebba4d1977026c2fc4048e75c8",
+    "output_full_v1/Fig06_full_nature_trial.svg": "9a032e6f208d1c5958d306c06e29ce5e9e75c5fa63d7a4737d66e88ec36b9567",
+    "output_full_v1/Fig06_full_nature_trial.png": "c6bd99c1121e0177af51b6b71c564015a4d3440f7ccfed54b64374f42c1a6c29",
+    "build_fig06_full_trial.py": "3395aa0657a6ebb29a1cc5e4f5eb9f1860d5687735b03f183b2ca22c6535753e"
+  }
+}

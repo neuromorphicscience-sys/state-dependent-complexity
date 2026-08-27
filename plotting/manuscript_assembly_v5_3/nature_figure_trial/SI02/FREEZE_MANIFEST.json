@@ -1,0 +1,16 @@
+{
+  "figure": "SI02",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_full_v1",
+  "note": "User-approved SynPhys local-circuit robustness figure. The conceptual boundary map was removed; the frozen figure contains identity absorption, repeated held-out validation and local-endpoint robustness.",
+  "sha256": {
+    "output_full_v1/SI02_full_nature_trial_v1.pdf": "6a91efb726ee86089df16904b585233f241f17af2490ec512fe88c5b0c9d8e39",
+    "output_full_v1/SI02_full_nature_trial_v1.svg": "e249fd9f5a04e375477929919ff35f5723dedfd716e2abfa82b8298414c69a2d",
+    "output_full_v1/SI02_full_nature_trial_v1.png": "9e4045d256445ce510265f1cb97c5a807b398ddbb7f3468f2a74eb411c5621f5",
+    "output_full_v1/SI02_full_nature_trial_v1.tiff": "72a2b353ffb15c4b86157cceeba88925394365f5dc7da8873220b9147392e52b",
+    "output_full_v1/source_data_manifest.json": "7ee0d528619f79b7cb7df644368923670e3292706d536c14f7d7e588b9728d89",
+    "build_si02_full_v1.py": "593ed90ae68719c9bcb22dbdcd3d5bc3ba436a8c7168f8bad41220e2245fc8fc",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}

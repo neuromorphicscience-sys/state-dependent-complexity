@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+type: software
+title: "Code for: Collective state determines the value of neuronal complexity"
+version: 1.0.0
+license: GPL-3.0-only
+authors:
+  - family-names: Zhang
+    given-names: Jinhao
+  - family-names: Meng
+    given-names: Jialin
+    email: jlmeng@sdu.edu.cn
+  - family-names: Wang
+    given-names: Tianyu
+    email: tywang@sdu.edu.cn

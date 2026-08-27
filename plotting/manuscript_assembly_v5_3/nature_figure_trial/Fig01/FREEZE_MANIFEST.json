@@ -1,0 +1,13 @@
+{
+  "figure": "Fig01",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-24",
+  "release_directory": "output_full_v2",
+  "note": "User-approved reference with complete data-axis titles and a 13 mm inter-row gap matched to Fig04. Do not modify without explicitly unfreezing Fig01.",
+  "sha256": {
+    "output_full_v2/Fig01_full_nature_trial.pdf": "d0e156cbdbf7ef9863ae0cc56a963c1b6c41f004245d4f802bb4618e2c217133",
+    "output_full_v2/Fig01_full_nature_trial.svg": "d69e9513134d5922301aea9acfe62505d76cdb60072ed1bd29387b258cbbec0c",
+    "output_full_v2/Fig01_full_nature_trial.png": "e1cfbb5532982c736ebd854ca1c2e84f85ca125790641c1f2e173fe0a48eb6a6",
+    "build_fig01_full_trial.py": "0f46eedd89b68919018d6d87827a979505531d265e75d94ab19a1bf76cbedad3"
+  }
+}

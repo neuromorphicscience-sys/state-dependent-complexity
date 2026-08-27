@@ -1,0 +1,20 @@
+{
+  "status": "LOCKED_FOR_REFERENCE_LAYOUT",
+  "locked_on": "2026-08-25",
+  "scope": "Allocation of all 57 existing supplementary image assets and final SI1-SI8 scientific panel order.",
+  "counts": {
+    "audited_assets": 57,
+    "standalone_keep": 26,
+    "merged_assets": 23,
+    "converted_to_table": 1,
+    "deleted_as_frozen_duplicate": 7,
+    "final_si_axes": 49,
+    "final_visible_panel_letters": 36,
+    "final_si_figures": 8
+  },
+  "sha256": {
+    "SI_ALLOCATION_MAP.tsv": "b66c7f22c71cb6e830975f6467215b5f0ef09a90f0fc61d6edb4fa4cdcb417db",
+    "SI_FINAL_BLUEPRINT.md": "6f686a1f2d768e25d6d3a4cb876afe6da69c0c77d7a86033b1faa133c95c174d"
+  },
+  "note": "This lock controls scientific allocation and panel order only. Graphical geometry remains open until each SI reference layout is reviewed and frozen."
+}

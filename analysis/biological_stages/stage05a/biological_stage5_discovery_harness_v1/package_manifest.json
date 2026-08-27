@@ -1,0 +1,72 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 2685,
+    "sha256": "29684ce7c860c79bdf06d9a0fcf95540919236cd0a11b1c58a7c39c931961361"
+  },
+  {
+    "path": "config.json",
+    "bytes": 1078,
+    "sha256": "d1391d496c5451faaefcc00891f7ae1d1f09fcde50437cde3a308b1c0ecaa20e"
+  },
+  {
+    "path": "docs/COMMANDS.md",
+    "bytes": 3788,
+    "sha256": "80a20a3fe3796c7e7a137a1370ae385bb39281a39320d4eac811d65e2922d68f"
+  },
+  {
+    "path": "monitor_once.sh",
+    "bytes": 1522,
+    "sha256": "2aa263a1000a89c142d2ceec6bc73bbc84fb151ea156fa20ee1827ad6ba4d60f"
+  },
+  {
+    "path": "run_all.sh",
+    "bytes": 2300,
+    "sha256": "eb642095566de71b5c2a01cd8a08c9fbcd3391f323e9d55ff94204c6b85de7ee"
+  },
+  {
+    "path": "scripts/allen_extract.py",
+    "bytes": 9866,
+    "sha256": "6ffc10c3310928860d8cd7125c686d20dd3a21f93b498dfbf6279fe79b2d0aad"
+  },
+  {
+    "path": "scripts/analyze_final.py",
+    "bytes": 12430,
+    "sha256": "249de32ea8b0323957b20339a815c05ce97b5d9ceffd6165b05dd52d1c381ce1"
+  },
+  {
+    "path": "scripts/certify.py",
+    "bytes": 647,
+    "sha256": "2ac4f4f468a04134553a3bb365b15b9d6109a9f196c1ed122b0eaddf790d658d"
+  },
+  {
+    "path": "scripts/common.py",
+    "bytes": 3067,
+    "sha256": "6fe5816ef1685eaacad307f26b9cd7fc543612bc4d8e29e08823e56fbeb3bae5"
+  },
+  {
+    "path": "scripts/digital_brain_features.py",
+    "bytes": 7134,
+    "sha256": "ec680559161546f2d76174c22122e7ab82d36dbb721685f5899447040a43b901"
+  },
+  {
+    "path": "scripts/gpu_temporal_context.py",
+    "bytes": 8669,
+    "sha256": "0cc37385c64894f5dd417862cc7b01783b188a039b7e23a4a7df2223aa677bb0"
+  },
+  {
+    "path": "scripts/install_missing.sh",
+    "bytes": 810,
+    "sha256": "16b279d84e5e6696886737db98f8f91b2912f0a1cf43eca1af9b0e0f1c66df5c"
+  },
+  {
+    "path": "scripts/make_figures.py",
+    "bytes": 3326,
+    "sha256": "90bfc406c38d8dceaadaa24066d8f3dc10ab1b1eb84c7dadd1592364708fb720"
+  },
+  {
+    "path": "scripts/preflight.py",
+    "bytes": 2726,
+    "sha256": "00e9b88c0f00fc2d953d2be0232dc01e2ae13793cb38ad1c552cf05e6850c866"
+  }
+]

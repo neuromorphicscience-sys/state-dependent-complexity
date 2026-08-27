@@ -1,0 +1,16 @@
+{
+  "figure": "SI06",
+  "status": "FROZEN",
+  "frozen_on": "2026-08-25",
+  "release_directory": "output_full_v1",
+  "note": "User-approved OpenScope coefficient-landscape controls in a fixed 2 x 3 grid.",
+  "sha256": {
+    "output_full_v1/SI06_full_nature_trial_v1.pdf": "b77657c317996cd80af55506858de247a2e79ebcc30d5a3d7dcb2d5f9a769366",
+    "output_full_v1/SI06_full_nature_trial_v1.svg": "d83daf24e26d4f45d9b4ef91f7ba02f42a182bd7f8e0bdcfc083a98b576a47ad",
+    "output_full_v1/SI06_full_nature_trial_v1.png": "128542551e42fc4b25d06f2fa787061257b818d36de6f64690ada695e400f2c3",
+    "output_full_v1/SI06_full_nature_trial_v1.tiff": "3447fcc87b48b3f6e738920d5e4f0d60fa7d07ef6a703dd324bcadc34e1daddc",
+    "output_full_v1/source_data_manifest.json": "e5a5c31f7e371e1a410f818624c50b887e10e901dde02ba85b7275acb6d1574b",
+    "build_si06_full_v1.py": "fb6afbf9448597389d4ec5dabbfb83cb6473b172b01f91a2c69ce14909f8456d",
+    "../ED_LAYOUT_STANDARD.md": "b5fe9bf544c1570fdc8e8ff09b601c0be8d8fec37a8e6722e40fa8a16ea3fe6f"
+  }
+}
