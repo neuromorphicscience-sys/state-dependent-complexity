@@ -12,6 +12,9 @@ python -m unittest discover -s revisions/ncs_20260911 -p 'test_*.py'
 python revisions/ncs_20260911/reproduce_revision.py \
   --data-root ../state-dependent-complexity-data/revisions/ncs_20260911 \
   --output local_outputs/reproduction.json
+python revisions/ncs_20260911/reproduce_biology.py \
+  --data-root ../state-dependent-complexity-data/revisions/ncs_20260911 \
+  --output local_outputs/biology.json
 ```
 
 The output path must not exist. The script verifies every data-revision checksum before analysis. It uses explicit source-content identifiers and no hard-coded workstation path. It needs no GPU, network access, raw recordings, Photoshop or Word.
@@ -22,6 +25,7 @@ The output path must not exist. The script verifies every data-revision checksum
 - Six reference-corrected shared-policy endpoints from the 12 graph-level tables: means, exact tests, 10,000-resample intervals, two Holm families and the frozen normal-approximation sufficiency bounds.
 - Uniform 15-condition local-stress gain: 12 graph-level means, exact test and the original 10,000-resample interval.
 - Primary and rate-matched crossover: means, exact one-sided tests and positive-graph counts on the same 12 graphs.
+- Eight additional biological result groups: OpenScope primary transfer and same-image imprint with their original 50,000-resample mouse-bootstrap intervals; disjoint-unit transfer; three matched fixed-repeat-0 permutation tests (including the two null landscape/top-set endpoints); GLIF mechanism-cost construction across nine tolerances; and the nested out-of-fold GLIF rank statistic with its matched 300-draw permutation P value and naive-median MAE comparison. See `BIOLOGICAL_REPLAY.md` for the distinct estimands and exact source schedules.
 
 Control masks are minimized over states **before** mask averaging. Search repeats, state pairs and grid cells are not converted into independent graph samples. Fixed seeds and original RNG call order are retained for the frozen intervals. R4 uses only the corrected reference-faithful evaluation, not its superseded layout-dependent output.
 
