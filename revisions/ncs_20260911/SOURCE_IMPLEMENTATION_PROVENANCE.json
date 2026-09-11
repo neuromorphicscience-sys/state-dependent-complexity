@@ -1,0 +1,29 @@
+{
+  "code": [
+    {
+      "file": "ncs_r2_core/stats.py",
+      "sha256": "68d446b310a8767e762a2284b3b1a27fa03924a9d17884e78ba31966d7d47ad1",
+      "exact_original_bytes": true
+    },
+    {
+      "file": "ncs_r2_core/shared_objective.py",
+      "sha256": "150dff1e160140011430c0475c72907b1c921bc222c8a73d5fff2e01f62d9096",
+      "exact_original_bytes": true
+    },
+    {
+      "file": "ncs_r2_core/search_adapter.py",
+      "sha256": "3c502696c05102b8be63be295bc23f5ca4ecbfdca6d7bb5943d9469a3195aaed",
+      "exact_original_bytes": true
+    },
+    {
+      "file": "simulation/benchmark_core.py",
+      "original_sha256": "a3dc719e23e83fbdd68826ac2edbb8a2ad600844587f0a99b059809884a9b655",
+      "public_sha256": "710fdc85481d553675663e14a8ebbe5d6af25ecd05f54e722d27ee50e4922529",
+      "all_function_AST_identical": true,
+      "edits": "Repository-relative simulator path; explicit external deadline instead of expired workstation deadline."
+    }
+  ],
+  "source_function_AST_unchanged": true,
+  "original_scientific_implementation_preserved": true,
+  "scope": "Selected scientific building blocks; not the private orchestration or complete production controller."
+}

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this versioned code revision; the associated manuscript is under preparation."
+type: software
+title: "Collective state conditions the computational value of neuronal complexity: revision code"
+version: "2026.09.11"
+license: GPL-3.0-only
+repository-code: "https://github.com/neuromorphicscience-sys/state-dependent-complexity"
+authors:
+  - family-names: Zhang
+    given-names: Jinhao
+  - family-names: Meng
+    given-names: Jialin
+    email: jlmeng@sdu.edu.cn
+  - family-names: Wang
+    given-names: Tianyu

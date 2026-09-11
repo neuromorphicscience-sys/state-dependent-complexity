@@ -1,4 +1,10 @@
-# State-dependent neuronal complexity: code release staging area
+# State-dependent neuronal complexity: code
+
+## September 2026 manuscript revision
+
+The additive [NCS revision](revisions/ncs_20260911/README.md) provides a lightweight, processed-data statistical replay for the updated six-main/eight-Extended-Data/six-Supplementary figure version, plus numerical building blocks and an optional task-simulator parity test. Use its explicit reproduction scope and requirements; it does not assert that every historical simulation or biological model fit was rerun. The companion [processed-data revision](https://github.com/neuromorphicscience-sys/state-dependent-complexity-data/tree/main/revisions/ncs_20260911) preserves complete comparison families, including null results. Earlier code is retained below and in its original directories.
+
+## Historical initial-release documentation
 
 This directory is a code-only staging area assembled from the completed research
 archive. It separates analysis code from plotting code and excludes raw data,
