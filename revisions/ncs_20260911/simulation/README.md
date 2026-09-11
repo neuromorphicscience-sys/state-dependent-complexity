@@ -1,5 +1,9 @@
 # Optional task simulation core
 
+The additive [task workflow audit](WORKFLOW_AUDIT.md) now exposes the five
+unchanged scientific controller methods with 12 synthetic CPU control-flow
+tests. It is not a production launcher; direct instantiation fails closed.
+
 `benchmark_core.py` preserves the task generator, driven HH/LIF dynamics, graph construction, input projection, ridge readout, prediction and scoring functions from the frozen six-task implementation. Its only implementation edits are repository-relative frozen-source lookup and replacing the expired workstation deadline with an explicit `NCS_RUN_DEADLINE_EPOCH` environment input. It launches no workload on import and does not itself repeat the complete candidate search.
 
 The final frozen task version is `challenge_v3`; the retained `v1` and `challenge_v2` generator branches are development history, not alternate final outcomes. The graph and task settings are in the companion processed-data protocol (`sd_eab3d59c11bcbc7fbc32`). Binary scores returned here are accuracies; published task contrasts use `2 * accuracy - 1`. Recall uses `1 - MSE / Var(y)`.

@@ -1,5 +1,17 @@
 # Validation performed for this code revision
 
+## Additional task-controller audit, 11 September 2026
+
+Twelve optional CPU control-flow tests passed locally with synthetic features,
+using the final challenge_v3 task generator and all 32 candidates per search
+method on a 32-node fixture. They verify held-out-data independence, source
+fingerprints, role order, budget/cardinality, independent-selection rules,
+group-count controls, protocol-bound completed resume, cache mismatch rejection
+and the 576-entry noise registry. Five original controller methods and three
+helpers have identical ASTs to the frozen source. No reservoir dynamics or new
+scientific search was executed. This is separate from the 21 NumPy-only tests;
+no portable production launcher is claimed. See simulation/WORKFLOW_AUDIT.md.
+
 Validated on 11 September 2026 before publication:
 
 - A fresh Python 3.10.12 virtual environment containing NumPy 2.2.6 replayed 31 listed endpoint checks from the companion processed tables, including exact tests, frozen bootstrap intervals, applicable Holm families and shared-sufficiency bounds. All checks passed. The inventory/hash check includes every file in that data-revision directory.

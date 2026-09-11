@@ -1,0 +1,25 @@
+{
+  "archived_source_name": "run_formal.py",
+  "archived_source_sha256": "4483b25c52f2725c419ae30fc7a448363f4b9ca23a3b2bcfe7b6ebee6f8c469a",
+  "published_file": "task_controller.py",
+  "published_sha256": "2f7c7371169a46fb99d92be1d6ad1ffc78dbf199e03c2da050b85f2b781c725f",
+  "unchanged_helper_AST_sha256": {
+    "digest": "4d853d5dbc914177b2884468476fbfeb65e736a195d49d993e61c6ed94ae5952",
+    "mask_id": "f12a7b530ca215d2f91b5a8c15697a76e092e1f5b1bc0e42d6abd9f973fbf172",
+    "atomic_npz": "e77e4ebabcedcf781775bc5e893c3acad4a662f68177288f1a2dd5da5dd1a876"
+  },
+  "unchanged_method_AST_sha256": {
+    "log": "31be1ed123a879ecf27a759bcaba1abbc92a2a7e62e287e52b86de54460b7ff5",
+    "features": "79ed762878a5d8e8a436a77b99d5caacf4df91f76ab2b89a70b2b3e8f0fc3904",
+    "evaluate_new": "a8efe1ca542a6317514ec8ebc86e7ad87d8d80a9ee27fcd9908dddfe8a82bec0",
+    "candidate": "d8f39db3abcd8b1597e0c461d79de0a20ef92a3117fc949136c5dcd17152f9bd",
+    "run_task": "35087844626ae03c4323425c4f0e0a4760870324754b3c0013192bcb8a2a73e7"
+  },
+  "excluded": [
+    "workstation constructor",
+    "production CLI and QA-gate wrapper",
+    "worker failure handler"
+  ],
+  "production_rerun_validated": false,
+  "scope": "Exact scientific orchestration source and synthetic CPU audit, not a search rerun"
+}
