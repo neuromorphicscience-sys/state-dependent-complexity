@@ -35,9 +35,14 @@ An additional [task-controller source audit](simulation/WORKFLOW_AUDIT.md)
 preserves five orchestration methods and tests search/selection/final-data
 separation using 12 synthetic CPU tests in the optional simulation environment.
 It does not launch or validate a new production search. The lightweight
-NumPy-only suite above still contains 21 tests; the 12 optional tests are a
+NumPy-only suite above contains 30 tests (21 numerical and nine metadata-failure tests); the 12 optional tests are a
 separate suite, not 12 additional scientific replications.
 
 This is a processed-data inference replay, not a claim to rerun the complete study from raw recordings or to repeat every historical simulation. The original Stage 1-5 and biological code remains in the established analysis directories. The verified command above does not establish reproduction of every descriptive biological panel or of the new search trajectory. See [the optional simulation core](simulation/README.md) for the preserved task generator, readout, dynamics and CUDA reference-parity test; `ncs_r2_core/` retains the original objective, statistical and search-interface modules. No paper acceptance, archival DOI or universal-law claim is implied.
 
 The repository's existing GPL-3.0-only license applies to this code. It does not assign rights to third-party raw data or to the companion processed-data repository.
+
+
+## Complete panel-source integrity check
+
+Run `verify_panel_sources.py` to check all 296 dataset hashes and all 202 quantitative panels / 246 microplots. The standard-library checker validates the public mappings, not raw fits or new scientific results. See [REVIEWER_QUICKSTART.md](REVIEWER_QUICKSTART.md) for installation, expected outputs, reproduction tiers and remaining limits.
